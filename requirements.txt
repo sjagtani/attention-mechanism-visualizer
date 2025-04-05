@@ -1,0 +1,6 @@
+numpy>=1.19.5
+tensorflow>=2.5.0
+matplotlib>=3.4.2
+seaborn>=0.11.1
+jupyter>=1.0.0
+ipykernel>=6.0.0
